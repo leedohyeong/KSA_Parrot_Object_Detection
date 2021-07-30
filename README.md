@@ -21,5 +21,6 @@
 #####  * 프로젝트 구현 목적: 여러 종류의 앵무새를 구분하고 인지
 #####  * 프로젝트 기간: 2021.06.14 ~ 2021.06.26
 
-##### [프로젝트 문서화]https://github.com/leedohyeong/KSA_Parrot_Object_Detection/blob/main/%EC%95%B5%EB%AC%B4%EC%83%88%20%EC%A0%84%EC%B2%98%EB%A6%AC.pdf [doclink]
+##### [프로젝트 문서화] [doclink]:https://github.com/leedohyeong/KSA_Parrot_Object_Detection/blob/main/%EC%95%B5%EB%AC%B4%EC%83%88%20%EC%A0%84%EC%B2%98%EB%A6%AC.pdf "go doc"
+
 
